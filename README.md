@@ -14,4 +14,7 @@
   - Please Reach Out to Us for New API Keys
   - Only Impacts Recommendations Section
 - Streamlit Buttons Require Double Click
+- Error About Undefined Variables
+  - Navigate to Peer Page on Sidebar
+  - Click Connect to Peers to Resolve Errors
   

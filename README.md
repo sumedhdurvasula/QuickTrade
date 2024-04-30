@@ -11,5 +11,7 @@
 
 ## Bugs
 - API Keys are Being Banned
+  - Please Reach Out to Us for New API Keys
+  - Only Impacts Recommendations Section
 - Streamlit Buttons Require Double Click
   

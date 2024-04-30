@@ -1,5 +1,5 @@
 # Welcome to QuickTrade
-
+## How to Run the Project
 1. **Clone the branch into your desired directory**
 2. **Open two terminal/command windows**
 3. **Navigate to Peer Node 1 directory in the first terminal**
@@ -10,13 +10,6 @@
 8. **You should have two tabs in your browser representing the two peers. View our [video demonstration](https://youtu.be/oYR4N1X3JYc?si=qc88uTLmpnAbVsre) for features and capabilities**
 
 ## Bugs
-
-- Description of the bug (e.g., Error message, unexpected behavior)
-  - Steps to reproduce:
-    1. Step 1
-    2. Step 2
-    3. Step 3
-  - Expected behavior: Describe what you expected to happen.
-  - Actual behavior: Describe what actually happened.
-  - Additional information: Any additional context or details about the bug.
+- API Keys are Being Banned
+- Streamlit Buttons Require Double Click
   

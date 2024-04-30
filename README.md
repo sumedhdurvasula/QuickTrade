@@ -1,5 +1,6 @@
 # Welcome to QuickTrade
 ## How to Run the Project
+### For best Experience, please use an IDE
 1. **Clone the branch into your desired directory**
 2. **Open two terminal/command windows**
 3. **Navigate to Peer Node 1 directory in the first terminal**

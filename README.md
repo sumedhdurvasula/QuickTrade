@@ -1,10 +1,10 @@
 # Welcome to QuickTrade
 ## How to Run the Project
-### For best Experience, please use an IDE
+### For the best Experience, please use an IDE
 1. **Clone the branch into your desired directory**
 2. **Open two terminal/command windows**
-3. **Navigate to Peer Node 1 directory in the first terminal**
-4. **Navigate to Peer Node 2 directory in the second terminal**
+3. **Navigate to Peer Node 1 directory in the first terminal** `cd "Peer Node 1"`
+4. **Navigate to Peer Node 2 directory in the second terminal** `cd "Peer Node 2"`
 5. **Run `pip install -r requirements.txt` in BOTH terminals**
 6. **Run `streamlit run peer.py` in the first terminal (Peer Node 1)**
 7. **Then run `streamlit run peer.py` in the second terminal (Peer Node 2)**
